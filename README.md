@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Ichiro ;)
 - 👀 I’m a beginner and dreamer programmer
-- 🌱 I’m currently learning javascript and Scratch
+- 🌱 I’m currently learning javascript and HTML
 
 <!---
 Ichiro-P/Ichiro-P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
