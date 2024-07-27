@@ -2,4 +2,4 @@
 
 - 👋 Hi, I’m Ichiro ;)
 - 👀 I’m a beginner and dreamer programmer
-- 🌱 I’m currently learning Python and C++ (along with Win32)
+- 🌱 I’m currently learning Python and C++
