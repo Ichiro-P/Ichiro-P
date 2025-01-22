@@ -6,7 +6,7 @@ Olá! Sou entusiasta por tecnologia e desenvolvimento de software. Aqui comparti
 
 - 🎓 Estudante de Ciências da Computação.
 - 🚀 Interessado em desenvolvimento de sistemas embarcados, banco de dados e design de software.
-- 🛠️ Atualmente explorando o desenvolvimento de jogos com SMFL e C++.
+- 🛠️ Atualmente explorando o desenvolvimento de jogos com SFML e C++.
 
 ## O que você encontrará aqui
 
