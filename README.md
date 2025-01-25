@@ -11,8 +11,7 @@ Olá! Sou entusiasta por tecnologia e desenvolvimento de software. Aqui comparti
 ## O que você encontrará aqui
 
 - 📂 **Projetos Acadêmicos**: Códigos e experimentos realizados durante meus estudos.
-- ⚙️ **Sistemas Embarcados**: Projetos envolvendo Arduino e circuitos eletrônicos.
-- 🛡️ **Jogos e Hobbies**: Compartilho scripts e criações relacionadas ao meu interesse por jogos como Crusader Kings 3.
+- 🛡️ **Jogos e Hobbies**: Compartilho scripts e criações relacionadas ao meu interesse por criação de clones de jogos como Space Invaders
 
 ## Vamos nos conectar!
 
